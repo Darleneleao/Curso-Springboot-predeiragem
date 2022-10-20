@@ -7,6 +7,9 @@
     <groupId>academy.devdojo</groupId>
     <artifactId>springBoot2-ecessentials</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <properties>
+        <java.version>17</java.version>
+    </properties>
 
     <parent>
         <artifactId>spring-boot-starter-parent</artifactId>

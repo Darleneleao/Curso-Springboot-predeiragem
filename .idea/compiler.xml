@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="springBoot2-ecessentials" target="1.8" />
+      <module name="springBoot2-ecessentials" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
